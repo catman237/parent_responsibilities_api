@@ -2,7 +2,7 @@
 
 ## Objectives
 1. Practice Active Record relationships
-2. Create Migrationos, Models, and Controllers
+2. Create Migrations, Models, and Controllers
 3. Create connections through Models beyond join tables
 4. Apply understanding of Active Record relationships
 
